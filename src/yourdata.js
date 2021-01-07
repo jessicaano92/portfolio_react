@@ -8,8 +8,6 @@ import codeIcon from "./images/code.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 
 export default {
@@ -17,21 +15,21 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Jessica Anocibar",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "I'm a Full Stack Developer",
     //Line 2 For Header
-    "products, brands,",
+    "graduate from the ",
     //Line 3 For Header
-    "and experience",
+    "University of Denver",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Experience in both frontend and backend programs utilizing a combination of multiple programs and languages along with strong communication, collaboration, analytical skills, and problem-solving. Please check out my work below and reach out with any questions!",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "j.anocibar92@gmail.com",
 
   // End Header Details -----------------------
 
@@ -39,94 +37,86 @@ export default {
   projects: [
     {
       id: 1, //DO NOT CHANGE THIS (Please)😅
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "Meal Matcher", //Project Title 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "Recipe website built for users to find multiple recipes regarding whatever ingredient is searched. The website has the ability to generate a random recipe along with storing any favorites in a recipe book and later deleting  if desired.",
+         
+      //Project Image 
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://github.com/jessicaano92/meal_matcher_javascript_ajax/raw/main/assets/images/readMe1.png",
+      //Project URL
+      url: "https://jessicaano92.github.io/meal_matcher_javascript_ajax/",
     },
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Couch Surfers Blog", //Project Title 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        " Blog website built for users to signup and login to share experiences and/or information about indoor and outdoor activities, cities, and restaurants with the public. ", // Add Your Service Type Here
+      //Project Image 
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://github.com/jessicaano92/couchSurfers/raw/main/public/assets/img/empty-blog-page.png",
+      //Project URL 
+      url: "https://dry-scrubland-38194.herokuapp.com/",
     },
     {
       id: 3, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "Giftr", //Project Title 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "Registry website built for users wanting to make a gift list for themselves, family, or friends whether it be for a birthday, wedding, or holiday. Stores user’s name and specific gift list information in the database along with the capability of purchasing gifts through the links provided.",
+         
+      //Project Image 
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://github.com/jessicaano92/registry/raw/main/readmePIC/giftHome.PNG",
+      //Project URL
+      url: "https://giftr-registry.herokuapp.com/",
     },
     {
       id: 4, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      title: "Fitness Tracker", //Project Title 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "This fitness tracker allows for the user to add either a resistance or cardio workout. In their workout, they are asked to input the duration, sets, reps, and miles of the particular workout they choose. The tracker then stores the information and shows it on a workout dashboard displaying the results on graphs. The graphs include the workout duration in minutes, pounds lifted, and a circle graph of exercises performed or not completed.", // Add Your Service Type Here
+      //Project Image 
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://github.com/jessicaano92/fitness_tracker_mongoose_express/raw/main/public/images/fitnesstracker3.png?raw=true",
+      //Project URL
+      url: "https://i-love-coffee.herokuapp.com/",
     },
     {
       id: 5, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Five", //Project Title - Add Your Project Title Here
+      title: "Weather Dashboard", //Project Title 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "This weather dashboard allows for the user to input a city of their choosing and see the stats for that city including temperature, humidity, UV index, wind speed, and more. All cities typed in are supposed to be saved to local storage for that user to go back and see whenever they want. Each city the user types and searches will come up with the said information about that said along with the 5-day forecast.", // Add Your Service Type Here
+      //Project Image 
       imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://github.com/jessicaano92/weather-dashboard/raw/main/images/img4.png",
+      //Project URL 
+      url: "https://jessicaano92.github.io/weather-dashboard/",
     },
     {
       id: 6, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Six", //Project Title - Add Your Project Title Here
+      title: "Day Planner", //Project Title 
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "This day planner provides the current day from 9am to 5pm to save any plans inside the rows. It is displayed with grey, red, and green colors representing the past, present, and future of the planner. When something is typed into one of the rows it is saved into local storage so if the page is refreshed, the text from the user input will still remain in the planner. The planner is up-to-date with the current time and day.", // Add Your Service Type Here
+      //Project Image 
       imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://github.com/jessicaano92/jquerydayplanner/raw/main/Day%20planner%20screenshots/image3.png",
+      //Project URL -
+      url: "https://jessicaano92.github.io/jquerydayplanner/",
     },
 
-    /*
-    If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-    ,{
-        id: 5,
-        title: 'Project Five',
-        para: 'Something Amazing',
-        imageSrc: "",
-        url: ''
-    }
-    */
   ],
 
   // End Work Section -----------------------
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "Having a background in travel and hospitality, I recently earned a certificate in Full Stack Development from the University of Denver, where I developed skills in JavaScript, Express, Node.js, MySQL, Sequelize, MongoDB, Mongoose, React.js, MERN stack, HTML, Handlebars, and CSS. Exploring a new career path has been extremely terrifying yet amazing.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "Having sharpened skills as an innovative problem solver, grasping the functionality and design of applications through web development has been exceptionally challenging but even more rewarding! With my background in customer service and ensuring customer satisfactory, these skills have helped me approach problems with creativity and collaboration from my fellow teams. With each project, I aim to understand how to best engage users for an impactful user experience. ",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    " I applied React.js in a recent project where I worked in a team of 5 to develop a MERN app that allows users to make registries to save gift ideas for friends and family to view and purchase. When I’m not developing or designing, you can find me camping, biking, spending time with my family, or researching the latest trend on web development. I’m excited to leverage my skills in the future as part of a fast-paced, quality-driven team. Please feel free to reach out through my contact page! Let's connect.",
   aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/119036672_3163572860358541_122482964854991753_n.jpg?_nc_cat=111&ccb=2&_nc_sid=8bfeb9&_nc_ohc=Wjr4eRxf__IAX9z_jLy&_nc_ht=scontent.fapa1-1.fna&oh=a3a3435d464fa25d1437410d176c1be4&oe=601BEAA5",
 
   //   End About Section ---------------------
 
@@ -159,18 +149,18 @@ export default {
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
-    {
-      id: 5,
-      img: designIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      id: 6,
-      img: codeIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
+    // {
+    //   id: 5,
+    //   img: designIcon,
+    //   para:
+    //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    // },
+    // {
+    //   id: 6,
+    //   img: codeIcon,
+    //   para:
+    //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    // },
   ],
 
   // End Skills Section --------------------------
@@ -188,14 +178,7 @@ export default {
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/chetanverma16" },
-    {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
+    
     {
       img: instagramIcon,
       url: "https://www.instagram.com/",
