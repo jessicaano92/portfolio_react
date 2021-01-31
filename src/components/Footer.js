@@ -29,6 +29,7 @@ const Footer = () => {
              <icon>❤</icon> by{" "}
             <a href="https://github.com/jessicaano92">Jessica Anocibar</a>
           </span>
+          <p>Thank you Chetan Verma!</p>
         </div>
       </div>
     </div>

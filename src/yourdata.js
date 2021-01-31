@@ -18,7 +18,7 @@ export default {
   name: "Jessica Anocibar",
   headerTagline: [
     //Line 1 For Header
-    "I'm a Full Stack Developer",
+    "I'm a Web Developer",
     //Line 2 For Header
     "graduate from the ",
     //Line 3 For Header
@@ -26,7 +26,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Experience in both frontend and backend programs utilizing a combination of multiple programs and languages along with strong communication, collaboration, analytical skills, and problem-solving. Please check out my work below and reach out with any questions!",
+    "Front End Developer utilizing a combination of multiple programs and languages along with strong communication, collaboration, analytical skills, and problem-solving. Please check out my work below and reach out with any questions!",
 
   //Contact Email
   contactEmail: "j.anocibar92@gmail.com",
@@ -110,9 +110,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Having a background in travel and hospitality, I recently earned a certificate in Full Stack Development from the University of Denver, where I developed skills in JavaScript, Express, Node.js, MySQL, Sequelize, MongoDB, Mongoose, React.js, MERN stack, HTML, Handlebars, and CSS. Exploring a new career path has been extremely terrifying yet amazing.",
+    "Having a background in travel and hospitality, I recently earned a certificate in Full Stack Development from the University of Denver, where I developed skills in JavaScript, Express, Node.js, MySQL, Sequelize, MongoDB, Mongoose, NPM, Version Control, React.js, MERN stack, HTML, CSS, Bootstrap, and many other third party CSS packages. Exploring a new career path has been extremely terrifying yet amazing.",
   aboutParaTwo:
-    "Having sharpened skills as an innovative problem solver, grasping the functionality and design of applications through web development has been exceptionally challenging but even more rewarding! With my background in customer service and ensuring customer satisfactory, these skills have helped me approach problems with creativity and collaboration from my fellow teams. With each project, I aim to understand how to best engage users for an impactful user experience. ",
+    "Having sharpened skills as an innovative problem solver, grasping the functionality and design of applications through web development has been exceptionally challenging but even more rewarding! With my background in customer service and ensuring customer satisfactory, these analytical skills have helped me approach issues with creativity and collaboration from my fellow teams. With each project, I aim to understand how to best engage users for an impactful user experience. ",
   aboutParaThree:
     " I applied React.js in a recent project where I worked in a team of 5 to develop a MERN app that allows users to make registries to save gift ideas for friends and family to view and purchase. When I’m not developing or designing, you can find me camping, biking, spending time with my family, or researching the latest trend on web development. I’m excited to leverage my skills in the future as part of a fast-paced, quality-driven team. Please feel free to reach out through my contact page! Let's connect.",
   aboutImage:
