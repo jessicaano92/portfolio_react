@@ -1,5 +1,5 @@
 {
-  
+  "homepage": "http://{jessicaano92}.github.io/{portfolio_react}",
   "name": "react-portfolio-template",
   "private": true,
   "description": "Portfolio Template For Awesome Peoples",
@@ -34,6 +34,8 @@
   ],
   "license": "0BSD",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
