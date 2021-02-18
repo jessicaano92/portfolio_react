@@ -116,7 +116,7 @@ export default {
   aboutParaThree:
     " I applied React.js in a recent project where I worked in a team of 5 to develop a MERN app that allows users to make registries to save gift ideas for friends and family to view and purchase. When I’m not developing or designing, you can find me camping, biking, spending time with my family, or researching the latest trend on web development. I’m excited to leverage my skills in the future as part of a fast-paced, quality-driven team. Please feel free to reach out through my contact page! Let's connect.",
   aboutImage:
-    "https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/119036672_3163572860358541_122482964854991753_n.jpg?_nc_cat=111&ccb=2&_nc_sid=8bfeb9&_nc_ohc=Wjr4eRxf__IAX9z_jLy&_nc_ht=scontent.fapa1-1.fna&oh=a3a3435d464fa25d1437410d176c1be4&oe=601BEAA5",
+    "https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/119036672_3163572860358541_122482964854991753_n.jpg?_nc_cat=111&ccb=3&_nc_sid=8bfeb9&_nc_ohc=ynxl3ZePgJ0AX_7DfKj&_nc_ht=scontent.fapa1-1.fna&oh=0d7d47d39719f3f8a0b38c6863771c26&oe=605349A5",
 
   //   End About Section ---------------------
 
